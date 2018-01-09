@@ -9,6 +9,7 @@ edite as linhas 18 ( index.php) colocando a url do seu site e linha 25 (adm.php)
 FIM!
 
 @Freatures V1.0 
+
 -Proteção com capcha 
 -Fácil customização 
 -Responsive 
