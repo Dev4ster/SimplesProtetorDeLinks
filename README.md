@@ -21,3 +21,4 @@ simples quando você compartilhar seu link de download ao invés de colocar o li
 criei um script para garantir que não seja fácil a remoção dos créditos redirecionando para meu site https://brsociety.com.br, eu pesquisei bastante para contriuir isso deu trabalho deixar bonito ,então por favor deixe os créditos lá! ps: não cobro pra tira.
 
 --V2.0? vai depender desse...(penso num sistema de monitoramento)
+
