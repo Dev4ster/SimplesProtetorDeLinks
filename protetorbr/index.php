@@ -103,7 +103,7 @@ var url = '<?php echo $url;?>';
 <img id="statusicone" src="download_icon.png" style="display:None;"><p id="status" style="color:#fff;">Verificação necessária </p>
 <br>
 <!--configuração do g-recapcha-->
-<div class="g-recaptcha" data-callback="recaptchaCallback" data-sitekey="6LdI3j8UAAAAAJyGP2wmEnls6KsfUziKab8riYHA"></div>
+<div class="g-recaptcha" data-callback="recaptchaCallback" data-sitekey="suakey"></div>
 
 <a id="Dev4sterlink" target="_blank" href=""><button class="button-success pure-button">Download</button></a>
 <p></p>
