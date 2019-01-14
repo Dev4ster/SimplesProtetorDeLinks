@@ -19,7 +19,7 @@ FIM!
 simples quando você compartilhar seu link de download ao invés de colocar o link no post navegue até o arquivo adm.php, lá você ira colcar o link e assim eel vai criar um mais ou menos assim http://localhost/p/protetorbr/?url=68747470733a2f2f6769746875622e636f6d2f44657634737465722f esse monte de numero é o link codificado em hexadecimal :3 que no caso é esse https://github.com/Dev4ster/ , ai quando o usuario vai pra esse link la no index ele é capturado e retransformado de volta e colocado numa variável em js, até ai tudo bem, quando o usuário passa pelo captcha ele atibui o href do botão de download os dados da variável e assim o botão fica com um link , isso previne de alguém ir ispesionar o elemento, tenho mais idéias de proteção numa V2.0 ultilizando full javascript , já que eu tenho mais fácilidade em php e consegui funcões como de encodar mais fácil. é isso:3
 
 #####Remoção de créditos ########
-criei um script para garantir que não seja fácil a remoção dos créditos redirecionando para meu site https://brsociety.com.br, eu pesquisei bastante para contriuir isso deu trabalho deixar bonito ,então por favor deixe os créditos lá! ps: não cobro pra tira.
+criei um script para garantir que não seja fácil a remoção dos créditos redirecionando para meu site https://brsociety.com.br, eu pesquisei bastante para contribuir isso deu trabalho deixar bonito ,então por favor deixe os créditos lá! ps: não cobro pra tira.
 
 --V2.0? vai depender desse...(penso num sistema de monitoramento)
 
